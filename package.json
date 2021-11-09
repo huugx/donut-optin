@@ -1,0 +1,15 @@
+{
+  "name": "donut.optin",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": ". ./.env && node index.js"
+  },
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "node-fetch": "^3.0.0",
+    "snoowrap": "^1.23.0"
+  },
+  "type": "module"
+}
